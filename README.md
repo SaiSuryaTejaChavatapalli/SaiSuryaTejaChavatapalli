@@ -1,11 +1,23 @@
 Hi there 👋, I'm Sai Surya Teja Chavatapalli
 ===============================
+Software Engineer
+-----------------------------
+* 🌍  I'm based in Andhra Pradesh, India.
+* 🖥️  See my portfolio at [saisuryatejachavatapalli](https://saisuryatejachavatapalli.vercel.app/)
+* ✉️  You can contact me at [saisuryateja3@gmail.com](mailto:saisuryateja3@gmail.com)
+* 🚀  I'm currently working on [Persistent Systems](https://www.persistent.com/)
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer.
 ### 📬 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/saisuryatejachavatapalli) | [GitHub](https://github.com/SaiSuryaTejaChavatapalli) | [Email](mailto:saisuryateja3@gmail.com) 
----
- 
-## About Me
-I am a software engineer with experience in developing web applications using technologies like React.js, TypeScript, and React Query. I have worked on projects such as a Quiz App, Swiggy Clone, and a Portfolio Website. I am passionate about creating user-friendly and engaging experiences through clean and efficient code.
+<p align="left"> 
+ <a href="https://github.com/SaiSuryaTejaChavatapalli" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+ </a> 
+ <a href="https://www.linkedin.com/in/saisuryatejachavatapalli" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+ </a>
+ <a href="https://twitter.com/saisuryateja8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+ </a>
+</p>
 
 ## Skills
 <p align="left">
@@ -66,4 +78,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* 🧠  I'm learning TypeScript
 -->
